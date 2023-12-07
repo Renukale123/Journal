@@ -1,0 +1,36 @@
+.middle{
+    margin: 4rem 6rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 4rem;
+    background-color: white;
+
+}
+
+.mid-text{
+    width: 100%;
+    text-align: start;
+    font-size: 1.1rem;
+    padding-left: 70px;
+}
+
+.mid-text h2{
+    padding-bottom: 1rem;
+    font-size: xx-large;
+}
+
+.image{
+    position: relative;
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    z-index: -99;
+}
+
+.image img{
+    box-shadow: -1px 1px 62px -18px rgba(0,0,0,0.19);
+    object-fit: cover;
+    border-radius: 5px;
+}
+

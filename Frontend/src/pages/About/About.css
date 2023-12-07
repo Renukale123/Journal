@@ -1,0 +1,59 @@
+.headertext{
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 2em;
+    margin-top:0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+    
+}
+
+.box h2{
+    color: #088178;
+}
+.para{
+    /* text-align: center; */
+	font-size: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+}
+.spantext{
+    font-weight: bold;
+    /* padding-left: 15px;
+    padding-right: 15px; */
+}
+
+.w3-container{
+    border: 1px solid black;
+    outline-style: solid;
+    outline-color: rgb(0, 0, 0);
+    outline-width: thin;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+
+.lining{
+    font-weight: bold;
+    list-style-type: square;
+     padding-left: 15px;
+    padding-right: 15px;
+}
+
+.ultext {
+    font-size: large;
+    font-weight: bold;
+  }
+  
+.ulstyle {
+    list-style-type: square;
+     padding-left: 15px;
+    padding-right: 15px; 
+  }

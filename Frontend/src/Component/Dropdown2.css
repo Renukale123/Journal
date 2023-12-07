@@ -1,0 +1,29 @@
+.services-author {
+    width: 13rem;
+    position: absolute;
+    top: 70px;
+    list-style: none;
+    text-align: start;
+  }
+  
+  .services-author li {
+    background: #565194;
+    cursor: pointer;
+  }
+  
+  /* .services-author li a:hover {
+    background: rgb(0, 175, 175);
+  } */
+  
+  .services-author.clicked {
+    display: none;
+  }
+  
+  .author-item {
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    color: white;
+    padding: 16px;
+  }

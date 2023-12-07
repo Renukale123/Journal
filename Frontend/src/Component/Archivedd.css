@@ -1,0 +1,29 @@
+.services-archieve {
+    width: 10rem;
+    position: absolute;
+    top: 70px;
+    list-style: none;
+    text-align: start;
+  }
+  
+  .services-archieve li {
+    background: #565194;
+    cursor: pointer;
+  }
+  
+  /* .services-archieve li a:hover {
+    background: rgb(0, 175, 175);
+  } */
+  
+  .services-archieve.clicked {
+    display: none;
+  }
+  
+  .archieve-item {
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    color: white;
+    padding: 16px;
+  }
